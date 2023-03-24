@@ -22,8 +22,10 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 **Notice:** The key will only be displayed once!!! Remember to keep it safe! If the key is not saved in time, it will have to be recreated!
 
 **Step 3 Connect to Siri**
-1. Clik on this link to set up shortcut in your phone:()
+1. Clik on this link to set up shortcut in your phone:(https://www.icloud.com/shortcuts/4deb16196dc44edc9e29da5668d930e2)
 2. Paste your API key as shown above, and it's a full replacement.
+
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/5b7019c16efb11c94bb996f06f66523ed01f0bd1/Image/IMG_6186.jpg)
 3. Addressing limitations and issues
 
 **Step 4 How to use your smart Siri**
