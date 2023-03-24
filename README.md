@@ -6,9 +6,9 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 
 ### Steps for Integrating ChatGPT into Siri
 
-A. Acquiring necessary permissions and APIs
-1. OpenAI API key
-2. Apple developer account
+**Step 1 Create an account/login to account**
+1. When using chatGPT for the first time, go to the chatGPT website to create an account
+2. Click on "Sign up" to register account, or "Log in" if you have one.
 3. SiriKit permissions
 
 B. Developing a custom Siri intent
