@@ -6,7 +6,7 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 
 ### Steps for Integrating ChatGPT into Siri
 
-**Step 1 [Create an account/login to account]**(https://chat.openai.com/auth/login)
+**Step 1 Create an account/login to account** [ChatGPT Website](https://chat.openai.com/auth/login)
 1. When using chatGPT for the first time, go to the chatGPT website to create an account
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/f1d2e83ecaab9697e5c99dbefbf21963fa44e586/Image/WX20230324-143335.png)
 
@@ -14,11 +14,10 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/f1d2e83ecaab9697e5c99dbefbf21963fa44e586/Image/WX20230324-143253.png)
 
-3. SiriKit permissions
-
-B. Developing a custom Siri intent
-1. Designing the intent schema
-2. Implementing the intent handler
+**Step 2 Access to API**
+1. Once logged in, go to this website for API claims:(https://platform.openai.com/account/api-keys)
+2. Login to account and click on "Create New Security Key" to create the API key.
+![Github Octocat mascot]([https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/f1d2e83ecaab9697e5c99dbefbf21963fa44e586/Image/WX20230324-143253.png](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/23cef5796f5f75043b50f554f6d5e35e4708ad00/Image/WX20230324-144724.png))
 3. Integrating ChatGPT API calls
 
 C. Testing and refining the integration
