@@ -8,6 +8,7 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 
 **Step 1 Create an account/login to account** [ChatGPT Website](https://chat.openai.com/auth/login)
 1. When using chatGPT for the first time, go to the chatGPT website to create an account
+
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/f1d2e83ecaab9697e5c99dbefbf21963fa44e586/Image/WX20230324-143335.png)
 
 2. Click on "Sign up" to register account, or "Log in" if you have one.
