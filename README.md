@@ -25,16 +25,17 @@ The integration of ChatGPT, a powerful language model developed by OpenAI, into 
 1. Clik on this link to set up shortcut in your phone:(https://www.icloud.com/shortcuts/4deb16196dc44edc9e29da5668d930e2)
 2. Paste your API key as shown above, and it's a full replacement.
 
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/5b7019c16efb11c94bb996f06f66523ed01f0bd1/Image/IMG_6186.jpg)
-3. Addressing limitations and issues
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/0deeaf54968431893c14215412d2b42e5cdac8c0/Image/IMG_6199.JPG)
+
+3. Clik “Done” and finish the set up
 
 **Step 4 How to use your smart Siri**
+
 Two input methods:
 
-1. "Hey Siri, smart Siri" to open the Shortcuts (the first time you open it there will be a permission reminder, just tap yes all the way through)
+1. "Hey Siri, smart Siri" to open the Shortcuts (the first time you open it there will be a permission reminder, just tap yes all the way through).
 
-2. Tap on the Shortcuts and enter your question in the box below yes!
+2. Tap on the Shortcuts and enter your question in the box below "Please tell me your question".
 
-
-Conclusion:
+### Conclusion:
 Integrating ChatGPT into Siri offers a unique opportunity to improve the virtual assistant's performance and user satisfaction. By following the steps outlined in this guide, developers can successfully integrate ChatGPT into Siri, creating a more advanced, efficient, and engaging virtual assistant that meets the demands of modern users while addressing ethical and privacy concerns. As AI technologies continue to advance, the potential for further enhancements and applications will only grow, paving the way for increasingly sophisticated virtual assistants.
