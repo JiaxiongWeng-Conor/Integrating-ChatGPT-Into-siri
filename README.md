@@ -1,4 +1,4 @@
-# Integrating-ChatGPT-to-siri
+# Integrating-ChatGPT-into-siri
 
 ### Introduction:
 
