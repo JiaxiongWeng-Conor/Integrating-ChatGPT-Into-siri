@@ -41,11 +41,6 @@ Two input methods:
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
 
-To buy me a coffee, simply scan or clik below:
+<a href="https://www.buymeacoffee.com/jw7468f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/353dc1ae3fdcc5ca2f2e4a8f8c017fddb3a051b1/Image/IMG_6200.jpg)
-
-[Link of venmo](https://account.venmo.com/u/Jiaxiong-Weng)
-
-
-Thank you for your support! 🙏
+Thank you for your support! 🙏 
