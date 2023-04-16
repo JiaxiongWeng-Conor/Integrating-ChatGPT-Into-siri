@@ -9,6 +9,8 @@
 
 Siri is already an incredibly powerful virtual assistant, but imagine taking its capabilities to the next level. We are excited to introduce our latest project, which seamlessly integrates ChatGPT into Siri. This innovative shortcut allows Siri to leverage the advanced natural language understanding and generation capabilities of ChatGPT, delivering an even smarter and more versatile user experience. With this integration, Siri can now provide more detailed responses, engage in more meaningful conversations, and better assist you in your daily tasks.
 
+**Please click on the "Star" button to support the developer！！！**
+
 ### Steps for Integrating ChatGPT into Siri
 
 **Step 1 Create an account/login to account** [ChatGPT Website](https://chat.openai.com/auth/login)
