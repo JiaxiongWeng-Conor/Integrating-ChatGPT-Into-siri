@@ -1,7 +1,7 @@
 # Integrating-ChatGPT-into-siri
 
 ### DEMO
-
+![GIF](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-Into-siri/blob/da30f4c25007a6b5f54e787e5da2530b94332ef9/Image/IMB_Z2YEtT.GIF)
 
 ### Introduction:
 
