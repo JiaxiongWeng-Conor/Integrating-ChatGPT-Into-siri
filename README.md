@@ -26,7 +26,7 @@ Siri is already an incredibly powerful virtual assistant, but imagine taking its
 1. Clik on this link to set up shortcut in your phone:(https://www.icloud.com/shortcuts/382ac13cc15146aa97b8ce103b995af3)
 2. Paste your API key as shown above, and it's a full replacement.
 
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-Into-siri/blob/0bb1b4534e3564652a5bf1f1b2d11c1b11587fa2/Image/IMG_6265.jpg)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-Into-siri/blob/2a5db159f8ff81e9dc491197b6602b50e2c4fdc7/Image/IMG_6267.jpg)
 
 3. Clik “Done” and finish the set up
 
